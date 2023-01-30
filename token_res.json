@@ -1,0 +1,59 @@
+{
+    "guhan.k@grexit.com": {
+        "token": "ya29.a0AVvZVsqZKrVA1U4m7_c9rD3ATbfSZkdDwKWa1j5jCgMoARqCUdhuaZRh1-4X4plRccseQwp4Dyp-Ev3lRTv02I2WG1-NggBcDxC1AUkSpwkFlaYpAkx6R2gofKE9sHnWjnenjyOMAC6nOr4n4OVu55z8CqQBik0aCgYKAZASAQASFQGbdwaIGdzFkDlYO4c7mN-ETUzzBQ0166",
+        "refresh_token": "1//0glxAf-HYpBeQCgYIARAAGBASNwF-L9Ir2fxvZSpFYwYzABoLxw9UX-C6ZrVSC3sFHLbOtvIkhPqEK70oBAvmbipsvsrqAgHvb08",
+        "expiry": "2023-01-29 14:04:31",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "client_id": "395150844921-qeoqgmrbv4p9d9dqllrlj14ucujfjhv7.apps.googleusercontent.com",
+        "client_secret": "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",
+        "scopes": [
+            "https://mail.google.com/",
+            "https://www.googleapis.com/auth/cloud-platform",
+            "https://www.googleapis.com/auth/pubsub",
+            "https://www.googleapis.com/auth/gmail.readonly",
+            "https://www.googleapis.com/auth/gmail.labels",
+            "https://www.googleapis.com/auth/gmail.modify",
+            "https://www.googleapis.com/auth/gmail.insert",
+            "https://www.googleapis.com/auth/gmail.compose"
+        ],
+        "historyId": 48253
+    },
+    "gspam3218@gmail.com": {
+        "token": "ya29.a0AVvZVsrZ0fq8E4ESl62vpJidSBJNNl2hq42t4GA4LoNa0TyySeJ0o_PnjzENFsSxkGjTLgD8IvaVBxXXnRpbx2qUGIMMo1Ma4KXmyIe54HfihRh_-CFxuXgcPDKxpV4daR7ly7lrv5kAzQQCYGjgb36JzNUkTzgaCgYKAfoSAQASFQGbdwaIJaM2PO3mrB-dmUfYL116LQ0166",
+        "refresh_token": "1//0gQS2w80AdEA7CgYIARAAGBASNwF-L9IruihJxFnDJVdLW8BsfC2t_Ww6ollRoRVX9vKYPpeZbC3tKaRHusEtkVJ_xv3FYjHTbaQ",
+        "expiry": "2023-01-29 14:04:31",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "client_id": "395150844921-qeoqgmrbv4p9d9dqllrlj14ucujfjhv7.apps.googleusercontent.com",
+        "client_secret": "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",
+        "scopes": [
+            "https://mail.google.com/",
+            "https://www.googleapis.com/auth/cloud-platform",
+            "https://www.googleapis.com/auth/pubsub",
+            "https://www.googleapis.com/auth/gmail.readonly",
+            "https://www.googleapis.com/auth/gmail.labels",
+            "https://www.googleapis.com/auth/gmail.modify",
+            "https://www.googleapis.com/auth/gmail.insert",
+            "https://www.googleapis.com/auth/gmail.compose"
+        ],
+        "historyId": 67725
+    },
+    "g17413739@gmail.com": {
+        "token": "ya29.a0AVvZVso1swf9-D7qBT-rVuv2Drr9-H7d1-1hkEMuUzvttWc8S_Ba49pTGnTNBduHjtn4LGUc75cncTKybSXJbw4l_0CVqz_dR3Q1akwsFtEDu4mXUX1HTNvAxmO_CBas0Z0YsMcukJwD_8g3ibVgl3BSEkTiiIMaCgYKAX0SAQASFQGbdwaIyQrHilBbMJQFW2n-0J3DbA0166",
+        "refresh_token": "1//0gwl9UFtRc_h_CgYIARAAGBASNwF-L9IrBqkE45uSYCVBKlmBmTsXC7F_xchm8ip90B5QGvCdxyaU3-ixuiWH0PRJKVopTGEniuM",
+        "expiry": "2023-01-29 14:04:31",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "client_id": "395150844921-qeoqgmrbv4p9d9dqllrlj14ucujfjhv7.apps.googleusercontent.com",
+        "client_secret": "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",
+        "scopes": [
+            "https://mail.google.com/",
+            "https://www.googleapis.com/auth/cloud-platform",
+            "https://www.googleapis.com/auth/pubsub",
+            "https://www.googleapis.com/auth/gmail.readonly",
+            "https://www.googleapis.com/auth/gmail.labels",
+            "https://www.googleapis.com/auth/gmail.modify",
+            "https://www.googleapis.com/auth/gmail.insert",
+            "https://www.googleapis.com/auth/gmail.compose"
+        ],
+        "historyId": 4857
+    }
+}
