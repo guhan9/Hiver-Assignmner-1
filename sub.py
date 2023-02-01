@@ -136,6 +136,7 @@ if __name__ == "__main__":
 
     #create a pub/sub subscriber to a topic
     creds = get_Credentials(credentials_data['gspam3218@gmail.com'])
+    #creds = get_Credentials(credentials_data[EMAIL_LIST[0])
     subscriber = pubsub_v1.SubscriberClient(credentials=creds)
     subscription_path = subscriber.subscription_path(
         project_id, subscription_id)
