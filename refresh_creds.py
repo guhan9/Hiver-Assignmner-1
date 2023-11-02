@@ -5,7 +5,6 @@ import time
 from datetime import datetime
 
 def refresh_creds(creds):
-    newcred = creds.refresh(Request())
 
 def get_Credentials(val):
     creds = Credentials(
