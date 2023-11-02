@@ -1,1 +1,72 @@
-
+{
+    "history": [
+        {
+            "id": "33786",
+            "messages": [
+                {
+                    "id": "185d293c276895cb",
+                    "threadId": "185cfabe3c2469e7"
+                }
+            ],
+            "messagesAdded": [
+                {
+                    "message": {
+                        "id": "185d293c276895cb",
+                        "threadId": "185cfabe3c2469e7",
+                        "labelIds": [
+                            "UNREAD",
+                            "IMPORTANT",
+                            "SENT",
+                            "INBOX"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "33849",
+            "messages": [
+                {
+                    "id": "185d29463fa63a09",
+                    "threadId": "185cfabe3c2469e7"
+                }
+            ],
+            "messagesAdded": [
+                {
+                    "message": {
+                        "id": "185d29463fa63a09",
+                        "threadId": "185cfabe3c2469e7",
+                        "labelIds": [
+                            "DRAFT",
+                            "IMPORTANT"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "33862",
+            "messages": [
+                {
+                    "id": "185d29467a472b3a",
+                    "threadId": "185cfabe3c2469e7"
+                }
+            ],
+            "messagesAdded": [
+                {
+                    "message": {
+                        "id": "185d29467a472b3a",
+                        "threadId": "185cfabe3c2469e7",
+                        "labelIds": [
+                            "UNREAD",
+                            "IMPORTANT",
+                            "SENT",
+                            "INBOX"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "historyId": "33904"
+}
